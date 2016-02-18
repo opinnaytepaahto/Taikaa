@@ -1,0 +1,6 @@
+c:\users\ranger\documents\visual studio 2015\Projects\Taikaa\Taikaa\bin\Debug\Taikaa.exe.config
+c:\users\ranger\documents\visual studio 2015\Projects\Taikaa\Taikaa\bin\Debug\Taikaa.exe
+c:\users\ranger\documents\visual studio 2015\Projects\Taikaa\Taikaa\bin\Debug\Taikaa.pdb
+c:\users\ranger\documents\visual studio 2015\Projects\Taikaa\Taikaa\obj\Debug\Taikaa.csprojResolveAssemblyReference.cache
+c:\users\ranger\documents\visual studio 2015\Projects\Taikaa\Taikaa\obj\Debug\Taikaa.exe
+c:\users\ranger\documents\visual studio 2015\Projects\Taikaa\Taikaa\obj\Debug\Taikaa.pdb
